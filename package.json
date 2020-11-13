@@ -1,5 +1,6 @@
 {
-  "name": "react-tasks",
+  "name": "03-react-tasks",
+  "description": "Tasks app in React/Electron",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
